@@ -1,0 +1,2 @@
+# Minecrafty
+A Minecraft Bot
